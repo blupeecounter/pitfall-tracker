@@ -1,0 +1,225 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
+  {
+    "name": "Jungle Canyon",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Jungle_Canyon.png"
+  },
+  {
+    "name": "Crash Site",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Crash_Sight.png"
+  },
+  {
+    "name": "Punchau Shrine",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Punchau_Shrine.png"
+  },
+   {
+    "name": "Plane Cockpit",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Plane_Cockpit.png"
+  },
+   {
+    "name": "Native Jungle",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Native_Jungle.png"
+  },
+   {
+    "name": "Altar of Huitiaca",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Altar_Of_Huitiaca.png"
+  },
+   {
+    "name": "Great Tree",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Great_tree.ong.png"
+  },
+   {
+    "name": "Statues of Ayar",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Satues_Of_Ayar.png"
+  },
+   {
+    "name": "Bittenbinders Camp",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Bittenbinders_Camp.png"
+  },
+   {
+    "name": "Mouth of Inti",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Mouth_Of_Inti.png"
+  },
+   {
+    "name": "Battered Bridge",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Battered_Bridge.png"
+  },
+   {
+    "name": "Mama Oullo",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Mama_Oullo.png"
+  },
+   {
+    "name": "Jungle Trail",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Jungle_Trail.png"
+  },
+   {
+    "name": "Flooded Courtyard",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Flooded_Courtyard.png"
+  },
+   {
+    "name": "Twin Outposts",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Twin_Outposts.png"
+  },
+   {
+    "name": "Turtle Monument",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Turtle_Monument.png"
+  },
+   {
+    "name": "Butterfly Glade",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Butterfly_Glade.png"
+  },
+   {
+    "name": "Native Village",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Native_Village.png"
+  },
+   {
+    "name": "Renegade Fort",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Renegade_Fort.png"
+  },
+   {
+    "name": "Renegade Headquarters",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Renegade_Headquarters.png"
+  },
+   {
+    "name": "Penguin Den",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Penguin_Den.png"
+  },
+   {
+    "name": "White Valley",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/White_Valley.png"
+  },
+   {
+    "name": "Cavern Lake",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Cavern_Lake.png"
+  },
+   {
+    "name": "Underground Dam",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Underground_Dam.png"
+  },
+   {
+    "name": "Abandoned Cavern",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Abandoned_Cavern.png"
+  },
+   {
+    "name": "Crystal Cavern",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Crystal_Cavern.png"
+  },
+   {
+    "name": "Eyes of Doom",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Eyes_Of_Doom.png"
+  },
+   {
+    "name": "Mountain Overlook",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Mountain_Overlook.png"
+  },
+   {
+    "name": "Teleporters",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Teleporters.png"
+  },
+   {
+    "name": "Spinjas Lair",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Spinjas_Lair.png"
+  },
+   {
+    "name": "Viracocha Monoliths",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Viracocha_Monoliths.png"
+  },
+   {
+    "name": "Valley of Spirits",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Valley_of_Spirits.png"
+  },
+  {
+    "name": "Copacanti Lake",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Copacanti_Lake.png"
+  },
+  {
+    "name": "Mountain Sled Run",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Mountain_Sled_Run.png"
+  },
+  {
+    "name": "Apu Illapu Shrine",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Apu_Illapu_Shrine.png"
+  },
+  {
+    "name": "St Claires",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/St_Claires.png"
+  },
+  {
+    "name": "Fire Bombed Towers",
+    "location_size": 16,
+    "location_border_thickness": 2,
+    "img": "images/maps/Fire_Bombed_Towers.png"
+  }
+]

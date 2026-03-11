@@ -1,0 +1,743 @@
+{
+  //sets the trackers layout
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#layouts
+  "tracker_default": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "shared_item_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Logic Settings",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "shared_logic_grid"
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Crash Site",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Crash Site"
+                ]
+              }
+            },
+            {
+              "title": "Jungle Canyon",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Jungle Canyon"
+                ]
+              }
+            },
+            {
+              "title": "Punchau Shrine",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Punchau Shrine"
+                ]
+              }
+            },
+            {
+              "title": "Plane Cockpit",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Plane Cockpit"
+                ]
+              }
+            },
+            {
+              "title": "Native Jungle",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Native Jungle"
+                ]
+              }
+            },
+            {
+              "title": "Altar of Huitiaca",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Altar of Huitiaca"
+                ]
+              }
+            },
+            {
+              "title": "Great Tree",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Great Tree"
+                ]
+              }
+            },
+             {
+              "title": "Statues of Ayar",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Statues of Ayar"
+                ]
+              }
+            },
+             {
+              "title": "Bittenbinders Camp",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Bittenbinders Camp"
+                ]
+              }
+            },
+             {
+              "title": "Mouth of Inti",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Mouth of Inti"
+                ]
+              }
+            },
+            {
+              "title": "Battered Bridge",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Battered Bridge"
+                ]
+              }
+            },
+             {
+              "title": "Mama Oullo",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Mama Oullo"
+                ]
+              }
+            },
+            {
+               "title": "Jungle Trail",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Jungle Trail"
+                ]
+              }
+            },
+            {
+               "title": "Flooded Courtyard",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Flooded Courtyard"
+                ]
+              }
+            },
+            {
+               "title": "Twin Outposts",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Twin Outposts"
+                ]
+              }
+            },
+              {
+               "title": "Turtle Monument",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Turtle Monument"
+                ]
+              }
+            },
+             {
+               "title": "Native Village",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Native Village"
+                ]
+              }
+            },
+            {
+               "title": "Butterfly Glade",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Butterfly Glade"
+                ]
+              }
+            },
+            {
+               "title": "Renegade Fort",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Renegade Fort"
+                ]
+              }
+            },
+            {
+               "title": "Renegade Headquarters",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Renegade Headquarters"
+                ]
+              }
+            },
+            {
+               "title": "Penguin Den",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Penguin Den"
+                ]
+              }
+            },
+            {
+               "title": "White Valley",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "White Valley"
+                ]
+              }
+            },
+            {
+               "title": "Cavern Lake",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Cavern Lake"
+                ]
+              }
+            },
+            {
+               "title": "Underground Dam",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Underground Dam"
+                ]
+              }
+            },
+            {
+               "title": "Abandoned Cavern",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Abandoned Cavern"
+                ]
+              }
+            },
+            {
+               "title": "Crystal Cavern",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Crystal Cavern"
+                ]
+              }
+            },
+            {
+               "title": "Eyes of Doom",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Eyes of Doom"
+                ]
+              }
+            },
+            {
+               "title": "Mountain Overlook",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Mountain Overlook"
+                ]
+              }
+            },
+            {
+               "title": "Teleporters",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Teleporters"
+                ]
+              }
+            },
+            {
+               "title": "Spinjas Lair",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Spinjas Lair"
+                ]
+              }
+            },
+            {
+               "title": "Viracocha Monoliths",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Viracocha Monoliths"
+                ]
+              }
+            },
+            {
+               "title": "Valley of Spirits",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Valley of Spirits"
+                ]
+              }
+            },
+            {
+               "title": "Copacanti Lake",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Copacanti Lake"
+                ]
+              }
+            },
+            {
+               "title": "Mountain Sled Run",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Mountain Sled Run"
+                ]
+              }
+            },
+            {
+               "title": "Apu Illapu Shrine",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Apu Illapu Shrine"
+                ]
+              }
+            },
+            {
+               "title": "St Claires",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "St Claires"
+                ]
+              }
+            },
+            {
+               "title": "Fire Bombed Towers",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Fire Bombed Towers"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "tracker_horizontal": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "content": [
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "left",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "shared_item_grid"
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Crash Site",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Crash Site"
+                ]
+              }
+            },
+            {
+              "title": "Jungle Canyon",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Jungle Canyon"
+                ]
+              }
+            },
+            {
+              "title": "Punchau Shrine",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Punchau Shrine"
+                ]
+              }
+            },
+            {
+              "title": "Plane Cockpit",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Plane Cockpit"
+                ]
+              }
+            },
+            {
+              "title": "Native Jungle",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Native Jungle"
+                ]
+              }
+            },
+            {
+              "title": "Altar of Huitiaca",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Altar of Huitiaca"
+                ]
+              }
+            },
+            {
+              "title": "Great Tree",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Great Tree"
+                ]
+              }
+            },
+             {
+              "title": "Statues of Ayar",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Statues of Ayar"
+                ]
+              }
+            },
+             {
+              "title": "Bittenbinders Camp",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Bittenbinders Camp"
+                ]
+              }
+            },
+             {
+              "title": "Mouth of Inti",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Mouth of Inti"
+                ]
+              }
+            },
+            {
+              "title": "Battered Bridge",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Battered Bridge"
+                ]
+              }
+            },
+             {
+              "title": "Mama Oullo",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Mama Oullo"
+                ]
+              }
+            },
+            {
+               "title": "Jungle Trail",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Jungle Trail"
+                ]
+              }
+            },
+            {
+               "title": "Flooded Courtyard",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Flooded Courtyard"
+                ]
+              }
+            },
+            {
+               "title": "Twin Outposts",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Twin Outposts"
+                ]
+              }
+            },
+              {
+               "title": "Turtle Monument",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Turtle Monument"
+                ]
+              }
+            },
+             {
+               "title": "Native Village",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Native Village"
+                ]
+              }
+            },
+            {
+               "title": "Butterfly Glade",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Butterfly Glade"
+                ]
+              }
+            },
+            {
+               "title": "Renegade Fort",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Renegade Fort"
+                ]
+              }
+            },
+            {
+               "title": "Renegade Headquarters",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Renegade Headquarters"
+                ]
+              }
+            },
+            {
+               "title": "Penguin Den",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Penguin Den"
+                ]
+              }
+            },
+            {
+               "title": "White Valley",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "White Valley"
+                ]
+              }
+            },
+            {
+               "title": "Cavern Lake",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Cavern Lake"
+                ]
+              }
+            },
+            {
+               "title": "Underground Dam",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Underground Dam"
+                ]
+              }
+            },
+            {
+               "title": "Abandoned Cavern",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Abandoned Cavern"
+                ]
+              }
+            },
+            {
+               "title": "Crystal Cavern",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Crystal Cavern"
+                ]
+              }
+            },
+            {
+               "title": "Eyes of Doom",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Eyes of Doom"
+                ]
+              }
+            },
+            {
+               "title": "Mountain Overlook",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Mountain Overlook"
+                ]
+              }
+            },
+            {
+               "title": "Teleporters",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Teleporters"
+                ]
+              }
+            },
+            {
+               "title": "Spinjas Lair",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Spinjas Lair"
+                ]
+              }
+            },
+            {
+               "title": "Viracocha Monoliths",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Viracocha Monoliths"
+                ]
+              }
+            },
+            {
+               "title": "Valley of Spirits",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Valley of Spirits"
+                ]
+              }
+            },
+            {
+               "title": "Copacanti Lake",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Copacanti Lake"
+                ]
+              }
+            },
+            {
+               "title": "Mountain Sled Run",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Mountain Sled Run"
+                ]
+              }
+            },
+            {
+               "title": "Apu Illapu Shrine",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Apu Illapu Shrine"
+                ]
+              }
+            },
+            {
+               "title": "St Claires",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "St Claires"
+                ]
+              }
+            },
+            {
+               "title": "Fire Bombed Towers",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Fire Bombed Towers"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

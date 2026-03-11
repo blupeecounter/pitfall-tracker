@@ -1,0 +1,256 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+  {
+    "name": "Breakdance",
+    "type": "toggle",
+    "img": "images/items/Breakdance.png",
+    "codes": "Breakdance"
+  },
+  {
+    "name": "Canteen",
+    "type": "toggle",
+    "img": "images/items/Canteen.png",
+    "codes": "Canteen"
+  },
+  {
+    "name": "Gas Mask",
+    "type": "toggle",
+    "img": "images/items/Gas_Mask.png",
+    "codes": "Gas_Mask"
+  },
+  {
+    "name": "Pickaxes",
+    "type": "toggle",
+    "img": "images/items/Pickaxes.png",
+    "codes": "Pickaxes"
+  },
+  {
+    "name": "Raft",
+    "type": "toggle",
+    "img": "images/items/Raft.png",
+    "codes": "Raft"
+  },
+  {
+    "name": "Rising_Strike",
+    "type": "toggle",
+    "img": "images/items/Rising_Strike.png",
+    "codes": "Rising_Strike"
+  },
+  {
+    "name": "Shield",
+    "type": "toggle",
+    "img": "images/items/Shield.png",
+    "codes": "Shield"
+  },
+   {
+    "name": "Sling",
+    "type": "toggle",
+    "img": "images/items/Sling.png",
+    "codes": "Sling2"
+  },
+   {
+    "name": "Sling",
+    "type": "progressive_toggle",
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/Sling.png",
+        "codes": "Sling",
+        "inherit_codes": false
+      },
+      {
+        "name": "Super Sling",
+        "img": "images/items/progressive_2.png",
+        "codes": "Sling2",
+        "inherit_codes": false
+      }
+    ]
+  },
+   {
+    "name": "Smash Strike",
+    "type": "toggle",
+    "img": "images/items/Smash_Strike.png",
+    "codes": "Smash_Strike"
+  },
+   {
+    "name": "Sprint",
+    "type": "toggle",
+    "img": "images/items/Sprint.png",
+    "codes": "Sprint"
+  },
+   {
+    "name": "Monkey Artifact",
+    "type": "toggle",
+    "img": "images/items/Monkey_Artifact.png",
+    "codes": "Monkey"
+  },
+   {
+    "name": "Scorpion Artifact",
+    "type": "toggle",
+    "img": "images/items/Scorpion_Artifact.png",
+    "codes": "Scorpion"
+  },
+   {
+    "name": "Penguin Artifact",
+    "type": "toggle",
+    "img": "images/items/Penguin_Artifact.png",
+    "codes": "Penguin"
+  },
+   {
+    "name": "Altar of Ages",
+    "type": "toggle",
+    "img": "images/items/Altar_of_Ages.png",
+    "codes": "Altar"
+  },
+   {
+    "name": "Chameleon Artifact",
+    "type": "toggle",
+    "img": "images/items/Chameleon_Artifact.png",
+    "codes": "Chameleon"
+  },
+   {
+    "name": "Finished St Claires",
+    "type": "toggle",
+    "img": "images/items/St_Claires_Complete.png",
+    "codes": "Claires"
+  },
+   {
+    "name": "TNT",
+    "type": "toggle",
+    "img": "images/items/TNT.png",
+    "codes": "TNT"
+  },
+   {
+    "name": "Torch",
+    "type": "toggle",
+    "img": "images/items/Torch.png",
+    "codes": "Torch"
+  },
+   {
+    "name": "Mystery Item",
+    "type": "toggle",
+    "img": "images/items/Item.png",
+    "codes": "Mystery_Item"
+  },
+   {
+    "name": "Tripple Jump",
+    "type": "toggle",
+    "img": "images/Chest/Idol.png",
+    "codes": "Tripple_jump"
+  },
+   {
+    "name": "OOB",
+    "type": "toggle",
+    "img": "images/Chest/Idol.png",
+    "codes": "OOB"
+  },
+   {
+    "name": "Tazzing",
+    "type": "toggle",
+    "img": "images/Chest/Idol.png",
+    "codes": "Tassing"
+  },
+   {
+    "name": "Dive",
+    "type": "toggle",
+    "img": "images/items/Dive.png",
+    "codes": "Dive"
+  },
+   {
+    "name": "Hitbox Clipping",
+    "type": "toggle",
+    "img": "images/Chest/Idol.png",
+    "codes": "Hitbox"
+  },
+   {
+    "name": "Invisible Loadzones",
+    "type": "toggle",
+    "img": "images/Chest/Idol.png",
+    "codes": "Loadzone"
+  },
+   {
+    "name": "Pickaxe Tricks",
+    "type": "toggle",
+    "img": "images/Chest/Idol.png",
+    "codes": "Pickaxe_Tricks"
+  },
+   {
+    "name": "NPC Manipulation",
+    "type": "toggle",
+    "img": "images/Chest/Idol.png",
+    "codes": "NPC_Manipulation"
+  },
+   {
+    "name": "Dark Rooms",
+    "type": "toggle",
+    "img": "images/Chest/Idol.png",
+    "codes": "Dark"
+  },
+   {
+    "name": "Raft Jump",
+    "type": "toggle",
+    "img": "images/Chest/Idol.png",
+    "codes": "Raft_Jump"
+  },
+   {
+    "name": "Punch",
+    "type": "toggle",
+    "img": "images/items/punch.png",
+    "codes": "Punch",
+    "initial_active_state": "true"
+  },
+  {
+    "name": "Roll",
+    "type": "toggle",
+    "img": "images/items/Roll.png",
+    "codes": "Roll",
+    "initial_active_state": "true"
+  },
+  {
+    "name": "Progressive",
+    "type": "progressive",
+    "allow_disabled": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/progressive.png",
+        "codes": "progressive",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/progressive_2.png",
+        "codes": "progressive_2",
+        "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Consumable",
+    "type": "consumable",
+    "img": "images/items/consumable.png",
+    "max_quantity": 8,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 1,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable"
+  },
+  {
+    "name": "Progressive Toggle",
+    "type": "progressive_toggle",
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/progressive.png",
+        "codes": "progressive_toggle",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/progressive_2.png",
+        "codes": "progressive_toggle_2",
+        "inherit_codes": false
+      }
+    ]
+  }
+]
