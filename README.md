@@ -15,3 +15,7 @@ Current goals:
 5: Finish fully adding logic into accessable entrances (currently only applicable through flooded courtyard)
 
 6: Flesh out any item logic I missed in the inital developent
+
+
+For help Installing the Randomizer mod, i recomend joining the PTLE discord server, so we can help you get setup and running the game :)
+https://discord.gg/hPxTe55h6a
